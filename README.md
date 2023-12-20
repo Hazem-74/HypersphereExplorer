@@ -16,6 +16,7 @@ The formula used to calculate the volume of a hypersphere is given by:
 
 \[ V_D = \frac{\pi^{(D/2)} \cdot R^D}{\Gamma(1+D/2)} \]
 
+
 Here, \( V_D \) represents the volume of the hypersphere, \( R \) is the radius, \( D \) is the number of dimensions, and \( \Gamma \) is the gamma function.
 
 ### Physics and Hyperspheres
