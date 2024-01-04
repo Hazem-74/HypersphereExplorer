@@ -50,9 +50,6 @@ The Python program leverages the mathematical formula for hypersphere volume to 
    - **Educational Tool:** It serves as an educational tool for students and researchers interested in theoretical physics and higher-dimensional geometry.
    - **Data Analysis:** The generated data can be further analyzed for insights into hypersphere properties and trends.
 
-## Program.exe
-
-https://drive.google.com/file/d/13cqDeVsCwt1apcofzne5DmgSa9kPCZWO/view?usp=drive_link
 
 ## Acknowledgments
 
